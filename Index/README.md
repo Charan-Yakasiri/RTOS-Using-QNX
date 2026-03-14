@@ -1,5 +1,6 @@
-![image](logo.png)
-
+<p align="center">
+  <img src="logo.png" alt="Logo" width="200">
+</p>
 # 19EC527: Real Time Operating System using QNX
 
 ## Table of Contents
