@@ -250,6 +250,7 @@ main, exiting
 ---
 
 # Output
+<img width="1058" height="554" alt="image" src="https://github.com/user-attachments/assets/3fc65a03-ea59-42f4-b56a-e18f1ae89fa6" />
 
 ---
 
